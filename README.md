@@ -23,8 +23,6 @@
 
 모두 서울 열린데이터광장에서 받았다.
 
-| 데이터 | 링크 | 단위 | 
-|---|---|---|---|
 | 자치구 단위 서울 생활인구(단기체류 외국인) | [OA-15441](https://data.seoul.go.kr/dataList/OA-15441/F/1/datasetView.do) | 자치구, 날짜, 시간대별 | 외국인 수 |
 | 상권분석서비스 추정매출(행정동) | [OA-22175](https://data.seoul.go.kr/dataList/OA-22175/S/1/datasetView.do) | 행정동, 분기, 업종별 | 자치구별 매출 |
 | 상권분석서비스 추정매출(상권) | [OA-15572](https://data.seoul.go.kr/dataList/OA-15572/F/1/datasetView.do) | 상권, 분기, 업종별 | 관광특구 6곳만 따로 확인 |
