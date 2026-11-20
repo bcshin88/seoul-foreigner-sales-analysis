@@ -40,9 +40,6 @@
 
 그렇다. 특히 카페와 음식점에서 관계가 뚜렷했다.
 
-<p align="center"><img src="reports/figures/fig1_level_scatter.png" width="900"></p>
-
-
 ([2023, 2024년 포함 전체 표](reports/tables/corr_level_by_year.csv))
 
 - 카페와 음식점은 어떤 방식으로 계산해도 0.7~0.87 정도로 높게 나왔다. 2023년, 2024년도 거의 같았다.
